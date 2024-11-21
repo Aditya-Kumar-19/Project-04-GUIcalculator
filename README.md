@@ -16,6 +16,9 @@ A simple and intuitive Graphical User Interface (GUI) Calculator built using Pyt
 - Error handling for invalid operations (e.g., division by zero).
 
 ---
+## Screenshot
+![Output screenshot](https://github.com/user-attachments/assets/2e81e06a-ed36-4bc2-8b5f-9fd59e5eee48)
+
 
 ## Requirements
 
@@ -28,4 +31,4 @@ A simple and intuitive Graphical User Interface (GUI) Calculator built using Pyt
 
 1. Clone this repository or download the source files:
    ```bash
-   git clone 
+   git clone https://github.com/Aditya-Kumar-19/Project-04-GUIcalculator.git
